@@ -1,5 +1,6 @@
 # JustDoIt
-A simple python to do list app
+A simple python to do list app.
+<br>
 A desktop app built with Python and Tkinter that helps students organise their study tasks, track deadlines, and manage their workload across different subjects. It stores all data locally using SQLite, so no internet connection is required.
 
 ---
